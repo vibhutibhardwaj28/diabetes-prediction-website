@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Bundled/local virtual environment
+Tean/
+
+# Local tooling and operating-system files
+.DS_Store
+.idea/
+.vscode/
+.cursor/
+.ropeproject/
+
+# Archives and generated files
+*.zip
+*.log
+

@@ -1,4 +1,4 @@
-# Diabetes Prediction Web App
+# Diabetes Prediction Website
 
 ## 📌 Overview
 The **Diabetes Prediction Web App** is a machine learning-based tool that allows users to input key health metrics (such as age, pregnancies, blood pressure, glucose level, BMI, etc.) and receive an immediate prediction on their diabetes risk. The prediction is powered by a **Random Forest classifier** trained on a healthcare dataset. The web application is built with **Flask** for the backend and uses **Tailwind CSS** to deliver a modern, responsive user interface.
